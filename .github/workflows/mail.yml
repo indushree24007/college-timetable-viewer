@@ -24,4 +24,4 @@ jobs:
 
       - name: Install dependencies
         run: |
-         pip insatll -r requirements.txt
+         pip Install -r requirements.txt
